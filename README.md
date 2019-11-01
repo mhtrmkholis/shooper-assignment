@@ -1,8 +1,11 @@
 # shooper-assignment
-How to run: 
-npm install,
+
+## How to run: 
 for better experience, please use iphone X simulator:
-react-native run-ios --simulator="iPhone X"
+
+>npm install,
+
+>react-native run-ios --simulator="iPhone X"
 
 ![alt text](https://storage.googleapis.com/sharea-image/login-page.png) 
 ![alt text](https://storage.googleapis.com/sharea-image/profile-with-notif.png)
