@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>29258EB4-0760-4554-A8C9-2FCB5B472C4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>29258EB4-0760-4554-A8C9-2FCB5B472C4C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>shooper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shooper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace shooper with scheme shooper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>594301806.07502401</real>
+			<key>timeStoppedRecording</key>
+			<real>594301858.31963098</real>
+			<key>title</key>
+			<string>Building workspace shooper with scheme shooper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>29258EB4-0760-4554-A8C9-2FCB5B472C4C</string>
+		</dict>
+		<key>E09E7F1A-0CCE-4177-81A7-3F62AA7317C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E09E7F1A-0CCE-4177-81A7-3F62AA7317C5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>shooper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shooper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace shooper with scheme shooper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>594301571.56969595</real>
+			<key>timeStoppedRecording</key>
+			<real>594301594.24389005</real>
+			<key>title</key>
+			<string>Building workspace shooper with scheme shooper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E09E7F1A-0CCE-4177-81A7-3F62AA7317C5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

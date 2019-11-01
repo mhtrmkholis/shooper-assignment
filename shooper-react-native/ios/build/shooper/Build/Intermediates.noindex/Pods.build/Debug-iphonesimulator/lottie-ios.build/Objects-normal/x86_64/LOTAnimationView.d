@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView.m \
+  /Users/macbookair/Documents/shooper-assignment/ios/Pods/Target\ Support\ Files/lottie-ios/lottie-ios-prefix.pch \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTKeypath.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueDelegate.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/MacCompatibility/LOTPlatformCompat.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Extensions/LOTHelpers.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Extensions/UIColor+Expanded.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Extensions/CGGeometry+LOTAdditions.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView_Internal.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.h \
+  /Users/macbookair/Documents/shooper-assignment/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTAssetGroup.h
