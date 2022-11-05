@@ -4,6 +4,7 @@ import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
 import Navigation from './src/navigation';
 import reducer from './src/stores/reducers';
+// import 
 
 const store = createStore(reducer, applyMiddleware(thunk));
 
